@@ -1,2 +1,3 @@
 A react app which uses randomusers API to generate random faces and some dummy info.<br>
-[click here](https://randomfaces.herokuapp.com/) to see
+[click here](https://randomfaces.herokuapp.com/) to see and <br>
+***REFRESH TO SEE NEW👀***
